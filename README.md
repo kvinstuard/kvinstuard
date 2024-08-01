@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m a Computer Science student from colombia with wide interest in DevOps
-- 🌱 I’m currently learning Machine Learnig and Neuronal networks
-- 👯 i'm looking to get into an internship in order to keep improving
 
 
 [![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=kvinstuard&show_icons=true&rank_icon=github)](https://github.com/kvinstuard/github-readme-stats)
