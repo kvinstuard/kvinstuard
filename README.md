@@ -1,7 +1,7 @@
 ### Hi, I am Kevin Marin! 
 
 
-- 🔭 I’m a Computer Science student from colombia with wide interest in development and DevOps
+- 🔭 I’m a Systems engineer from colombia with wide interest in development and DevOps
 
 
 [![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=kvinstuard&show_icons=true&rank_icon=github)](https://github.com/kvinstuard/github-readme-stats)
